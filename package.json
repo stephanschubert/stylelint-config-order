@@ -1,0 +1,39 @@
+{
+  "name": "@stephanschubert/stylelint-config-order",
+  "version": "0.0.1",
+  "description": "stylelint config that sorts/groups property declarations by (related) categories",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanschubert/stylelint-config-order.git"
+  },
+  "author": {
+    "name": "Stephan Schubert",
+    "email": "stephan@frozencherry.de",
+    "url": "https://stephanschubert.com"
+  },
+  "keywords": [
+    "css",
+    "property",
+    "groups",
+    "categories",
+    "related",
+    "stylelint",
+    "order",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/stephanschubert/stylelint-config-order/issues"
+  },
+  "homepage": "https://github.com/stephanschubert/stylelint-config-order",
+  "dependencies": {
+    "@stephanschubert/css-property-groups": "stephanschubert/css-property-groups"
+  },
+  "devDependencies": {
+    "jest": "23.6.0"
+  }
+}
