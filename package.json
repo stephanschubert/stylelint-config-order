@@ -34,6 +34,6 @@
     "@stephanschubert/css-property-groups": "stephanschubert/css-property-groups"
   },
   "devDependencies": {
-    "jest": "23.6.0"
+    "jest": "25.2.3"
   }
 }
